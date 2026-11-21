@@ -8,7 +8,7 @@ Compared with 2.6, version 1.0 uses fixed workstations and a single-task structu
 
 Compared with 1.0, AI Studio 4.0 adds a free-form workstation graph, MCP plugin settings for each AI, production workstations using compatible general-purpose APIs, media uploads and access assignments, and main-AI-assisted planning. Actual capabilities depend on the selected models, tools, and configuration.
 
-AI Studio 4.0 is planned as a Windows desktop download for a one-time price of US$25. Purchases and downloads are pending. See the [4.0 release preview](https://download.tsstudiohub.com/index.en).
+AI Studio 4.0 is now available for Windows at a one-time price of US$25. [Buy AI Studio 4.0](https://download.tsstudiohub.com/index.en)
 
 ## Run and configure
 
