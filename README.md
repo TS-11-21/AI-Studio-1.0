@@ -8,7 +8,7 @@ AI Studio 1.0 使用固定工位组织 AI 助手完成玩法、素材、整合�
 
 与 4.0 相比，4.0 增加自由工位图、每位 AI 的 MCP 插件设置、兼容通用 API 的制作工位、媒体上传与权限分配，以及主 AI 辅助规划。实际能力依模型、工具与配置而定。
 
-AI Studio 4.0 本地完整版计划提供 Windows 程序，拟一次性售价 25 美元。当前可查看发布预览，购买和下载尚未开放。见 [4.0 发布预览](https://download.tsstudiohub.com/)。
+AI Studio 4.0 本地完整版（Windows）已正式上架，一次性售价 25 美元。 [购买 AI Studio 4.0](https://download.tsstudiohub.com/)
 
 ## 运行与配置
 
